@@ -27,9 +27,10 @@ postcondiciones: se devolvera asociado al nombre un puntero al primer caracter d
 */
 char * leercadB();
 
-/*cabecera: int compcad(char* cad,char* cad2)
+/*cabecera: int compcad(cad cadena,cad cadena2)
  * descripcion: funcion que comparara dos cadenas
- * */
+ * en
+ *  */
 //!!!!!!!!!!!!!!!!TEST¡¡¡¡¡¡¡¡¡¡¡¡¡¡//
 int main()
 {

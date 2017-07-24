@@ -29,7 +29,9 @@ char * leercadB();
 
 /*cabecera: int compcad(cad cadena,cad cadena2)
  * descripcion: funcion que comparara dos cadenas
- * en
+ * entradas: dos cadenas
+ * salidas: un entero
+ * postcondciones: de se mayor la primera cadena se devolvera asociado al nombre un 1, de ser igual a la segunda cadena un 0 y de ser menor -1
  *  */
 //!!!!!!!!!!!!!!!!TEST¡¡¡¡¡¡¡¡¡¡¡¡¡¡//
 int main()

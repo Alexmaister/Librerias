@@ -19,6 +19,9 @@ salida: un puntero a char
 postcondiciones: se devolvera asociado al nombre un puntero al primer caracter de la cadena leida de teclado
 */
 char * leercadB();
+
+
+//!!!!!!!!!!!!!!!!TEST¡¡¡¡¡¡¡¡¡¡¡¡¡¡//
 int main()
 {
 
